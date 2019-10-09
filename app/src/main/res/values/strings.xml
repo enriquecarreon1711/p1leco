@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">p1leco</string>
+    <string name="titulo1">TECNOLOGICO DE ESTUDIOS SUPERIORES ORIENTE DEL ESTADO DE MEXICO</string>
+    <string name="titulo2">PRACTICA 1</string>
+    <string name="titulo3">INGENIERIA EN SISTEMAS COMPUTACIONALES</string>
+    <string name="titulo4">ALUMNO: LUIS ENRIQUE CARREON ORTEGA</string>
+    <string name="titulo5">PROFESOR:VICTOR HUGO DE LA O MARTINEZ</string>
+    <string name="titulo6">MATERIA: INTRODUCCION A DISPOSITIVOS MOVILES</string>
+    <string name="titulo7">GRUPO:7S11</string>
+
+</resources>
